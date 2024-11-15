@@ -15,5 +15,3 @@
 3. A senior cloud engineer or solutions architect who needs to refresh their AWS knowledge.
 
 ## AWS Certification Roadmap
-
-<img src = "https://github.com/tanishqharit/AWS_CLF_C02/blob/main/Z_Images/AWS_Roadmap.png" alt="AWS_Roadmap.png" width="900"/>
