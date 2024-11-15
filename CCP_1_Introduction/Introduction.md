@@ -16,4 +16,4 @@
 
 ## AWS Certification Roadmap
 
-![AWS_Roadmap](Z_Images/AWS_Roadmap.png)
+<img src = "https://github.com/tanishqharit/AWS_CLF_C02/blob/main/Z_Images/AWS_Roadmap.png" alt="Workflow Diagram" width="500"/>
